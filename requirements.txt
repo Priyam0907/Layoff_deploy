@@ -2,8 +2,6 @@
 
 pandas==2.2.2
 matplotlib==3.9.2
-matplotlib-base==3.9.2
-matplotlib-inline==0.1.6
 
 numpy==1.26.4
 numpy-base==1.26.4
